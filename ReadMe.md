@@ -1,4 +1,4 @@
-# Build a Quiz App with HTML, CSS, and JavaScript BBB
+# Build a Quiz App with HTML, CSS, and JavaScript CCC
 
 ![Home Screen](./images/cover.png)
 
